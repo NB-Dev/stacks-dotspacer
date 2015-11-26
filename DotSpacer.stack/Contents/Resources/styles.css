@@ -1,0 +1,13 @@
+#dotspacer_%id% {
+	width: 100%;
+	margin: %id=margin%px 0;
+}
+
+#dotspacer_%id% .dot {
+	border-radius: 50%;
+	height: %id=size%px;
+	width: %id=size%px;
+	margin: auto;
+	display: block;
+	background: %id=color%;
+}
