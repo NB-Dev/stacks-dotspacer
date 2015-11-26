@@ -13,7 +13,7 @@
 	<key>RWAddonManagerIconAsset</key>
 	<string>icon</string>
 	<key>RWAddonSupportURL</key>
-	<string>http://www.northbridge-development.de/open_source/index.html</string>
+	<string>http://www.northbridge-development.de/open_source/index.html#stack-dotspacer</string>
 	<key>author</key>
 	<string>Northbridge Development Konrad &amp; Schneider GbR</string>
 	<key>customItems</key>
@@ -72,11 +72,11 @@
 	<key>group</key>
 	<string>Design</string>
 	<key>helpURL</key>
-	<string>http://www.northbridge-development.de/open_source/index.html</string>
+	<string>http://www.northbridge-development.de/open_source/index.html#stack-dotspacer</string>
 	<key>icon</key>
 	<string>icon</string>
 	<key>infoURL</key>
-	<string>http://www.northbridge-development.de/open_source/index.html</string>
+	<string>http://www.northbridge-development.de/open_source/index.html#stack-dotspacer</string>
 	<key>subtitle</key>
 	<string>A spacer with a customizable dot in the middle</string>
 	<key>tags</key>
