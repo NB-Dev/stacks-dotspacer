@@ -30,7 +30,7 @@
 			<key>rounding</key>
 			<true/>
 			<key>title</key>
-			<string>Vertical Margin</string>
+			<string>Vertical margin</string>
 			<key>type</key>
 			<string>number</string>
 			<key>units</key>
